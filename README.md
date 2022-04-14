@@ -1,4 +1,5 @@
-# Slimme-Digitale-Energie-Meter
+# Slimme-Digitale-Energie-Meter met ESP32 Devkit module geprogrammeerd met Arduino IDE
+
 Gebruik van P1 poort voor het inlezen van elektrisch verbruik en eventueel sturen in functie van vermogen afkomstig van zonnepanelen.
 
 Data van P1 poort beschikbaar maken op webpagina voor verbruik van elektriciteit en bij digitale gasmeter ook van gas.
