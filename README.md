@@ -6,6 +6,8 @@ Data van P1 poort beschikbaar maken op webpagina voor verbruik van elektriciteit
 
 Bekijken welke de sluipverbruikers zijn om dit zoveel mogelijk te beperken.
 
+Bereikbaar via ESP32 eigen netwerk of via thuis WiFi netwerk
+
 Elektrische verbruikers schakelen in functie van het door de zonnepanelen geleverde vermogen.
 
 Er is ook een PWM sturing voorzien om bijvoorbeeld een boiler op te warmen.
