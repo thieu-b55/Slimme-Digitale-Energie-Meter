@@ -1,0 +1,13 @@
+Slimmme_meter_esp32_STA en Slimme_meter_esp32_AP
+
+Uitgang BC547 gaat NIET naar GPIO16 van esp32
+
+Uitgang BC547 gaat WEL naar GPIO18 van esp32
+
+Schema wordt nog aangepast.
+
+Sorry voor het ongemak
+
+groeten,
+
+thieu
