@@ -1,5 +1,17 @@
 # Slimme-Digitale-Energie-Meter met ESP32 Devkit module geprogrammeerd met Arduino IDE
 
+# UPDATE
+
+nieuwe versie met maandpiek
+
+zie
+
+https://github.com/thieu-b55/Slimme-meter-ESP32-V2
+
+ook aangepast voor Arduino core for ESP32 versie 3.x
+
+# UPDATE
+
 Gebruik van P1 poort voor het inlezen van elektrisch verbruik en eventueel sturen in functie van vermogen afkomstig van zonnepanelen.
 
 Voor elk programma de keuze tussen ESP32 in Access Point mode (ESP32 eigen netwerk) of Station Mode ESP32 geïntegreerd in je huisnetwerk.
